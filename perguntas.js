@@ -2,11 +2,10 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'portugues
+    'Pergunta 2',
+    'Resposta 2'
 )
-
 criaCartao(
     'Disciplina 2',
     'Pergunta 2',
